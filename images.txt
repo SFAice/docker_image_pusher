@@ -1,1 +1,1 @@
-datascience-notebook:lates
+datascience-notebook:latest
